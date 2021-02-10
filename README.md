@@ -1,6 +1,6 @@
 # division
 
-A new Flutter application.
+This is a flutter project where you can enter 2 relations and then perform division operator on them.
 
 ## Getting Started
 
